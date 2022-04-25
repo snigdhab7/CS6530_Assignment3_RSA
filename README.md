@@ -1,9 +1,4 @@
-# CS6530_Assignment3_RSA
-<p>
-Name: Snigdha Bose</br>
-Roll number: CS21M502</br>
-Registered Mail ID: snigdhab7@gmail.com</br>
-</p>
+
 The program decrypts the messaged by two different approaches and notes the time taken by each.</br>
 It is clearly visible that the CRT approach algorith for decryption takes less time as compared to the Naive algorithm.
 <p>
